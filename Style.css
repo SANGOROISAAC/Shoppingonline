@@ -1,0 +1,20 @@
+*{
+
+    margin:0;
+    padding:0;
+    
+
+}
+
+.body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+    background-position: center;
+}
+.menu{
+    position: center;
+    font-weight: bold;
+    font-display:inherit ;
+
+}
